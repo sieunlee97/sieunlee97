@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm Sieun Lee, a studious and diligent developer. 
-
-<h2> Tech Stack </h2>
+<p align="center">
+I'm Sieun Lee, a ✨ _studious and diligent_ ✨ developer. 
+</p>
+ <h2 align="center">💡 Tech Stack 💡</h2> 
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp 
