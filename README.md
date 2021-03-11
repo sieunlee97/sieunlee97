@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 <!--
 **sieunlee97/sieunlee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">Hi there 👋</h3> <br>
 <p align="center">
-I'm Sieun Lee, a ✨ _studious and diligent_ ✨ developer. 
+ I'm <b>Sieun Lee</b>, a ✨<b>studious and diligent</b>✨ developer. 
 </p>
  <h2 align="center">💡 Tech Stack 💡</h2> 
 
